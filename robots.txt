@@ -1,0 +1,14 @@
+# snoogans.co.uk - robots.txt
+#
+# Reference:
+#  https://gohugo.io/templates/robots/
+# 
+# 2022-11-01
+# Good in theory. In practice, I cannot get logic working to auto-exclude all dirs containing the string "file".
+
+# directed to all robots
+User-agent: *
+
+# Main /
+Disallow: cv.html
+Disallow: /files

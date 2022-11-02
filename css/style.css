@@ -1,0 +1,47 @@
+/* This is empty CSS file intended to be overwritten by user's custom CSS file */
+
+/* Used to size background image */
+.home {
+  height: 20vh;
+  padding: 0;
+  margin: 0;
+  color: #f9fafc;
+  overflow: hidden;
+}
+
+/* Used to display background image */
+.background {
+    height: 100%;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    background-attachment: fixed;
+    background-position: center;
+    transform: scale(1.0);
+    filter: blur(0px);
+    /*
+    transform: scale(1.1);
+    filter: blur(3px);
+    */
+    background-size: cover;
+}
+
+/* Used to display author image */
+.author-profile img {
+  visibility: hidden;
+  height: 120px;
+  width: 120px;
+  -o-object-fit: cover;
+  object-fit: cover;
+  background-color: #f9fafc;
+  padding: 5px;
+}
+
+/* Used to display author circle */
+.d-block{display:none!important}
+
+/* Used to display bouncing arrow */
+.arrow-center {
+    display: none;
+    justify-content: center;
+}
