@@ -1,7 +1,7 @@
-# github.com/eishundo/www.snoogans.co.uk
+# github.com/eishundo/site-www.snoogans.co.uk
 
-![Repository Size](https://img.shields.io/github/repo-size/eishundo/www.snoogans.co.uk)
-![Last Commit](https://img.shields.io/github/last-commit/eishundo/www.snoogans.co.uk)
+![Repository Size](https://img.shields.io/github/repo-size/eishundo/site-www.snoogans.co.uk)
+![Last Commit](https://img.shields.io/github/last-commit/eishundo/site-www.snoogans.co.uk)
 
 ---
 
