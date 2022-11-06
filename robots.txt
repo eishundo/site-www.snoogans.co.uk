@@ -11,4 +11,5 @@ User-agent: *
 
 # Main /
 Disallow: cv.html
+Disallow: /images/contact-me.svg
 Disallow: /files
