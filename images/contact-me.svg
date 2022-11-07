@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="55mm"
+   width="45mm"
    height="6mm"
-   viewBox="0 0 55 6"
+   viewBox="0 0 45 6"
    version="1.1"
    id="svg3313"
    inkscape:version="1.2.1 (9c6d41e410, 2022-07-14, custom)"
@@ -26,7 +26,7 @@
      showgrid="false"
      inkscape:zoom="2.587745"
      inkscape:cx="167.52037"
-     inkscape:cy="135.83255"
+     inkscape:cy="136.21899"
      inkscape:window-width="1444"
      inkscape:window-height="1236"
      inkscape:window-x="974"
@@ -41,6 +41,12 @@
        width="202.45686"
        height="23.200315"
        id="rect113" />
+    <rect
+       x="55.751637"
+       y="193.85922"
+       width="202.45686"
+       height="23.200315"
+       id="rect7550" />
   </defs>
   <g
      inkscape:label="Layer 1"
@@ -48,13 +54,13 @@
      id="layer1">
     <text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,-14.162441,-51.877442)"
+       transform="matrix(0.26458333,0,0,0.26458333,-14.162441,-51.348275)"
        id="text111"
-       style="font-size:18.6667px;white-space:pre;shape-inside:url(#rect113);display:inline;fill:#000000"><tspan
+       style="font-size:16px;white-space:pre;shape-inside:url(#rect113);display:inline;fill:#000000"><tspan
          x="55.751953"
-         y="211.14095"
-         id="tspan10170"><tspan
+         y="208.67212"
+         id="tspan9080"><tspan
            style="font-family:Mulish;-inkscape-font-specification:Mulish;fill:#8392a5"
-           id="tspan10168">cpile@snoogans.co.uk</tspan></tspan></text>
+           id="tspan9078">cpile@snoogans.co.uk</tspan></tspan></text>
   </g>
 </svg>
