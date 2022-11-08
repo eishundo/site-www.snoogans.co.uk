@@ -5,11 +5,12 @@
 # 
 # 2022-11-01
 # Good in theory. In practice, I cannot get logic working to auto-exclude all dirs containing the string "file".
+# Pattern should either be empty, start with "/" or "*"
 
 # directed to all robots
 User-agent: *
 
 # Main /
-Disallow: cv.html
+Disallow: /cv.html
 Disallow: /images/contact-me.svg
 Disallow: /files
