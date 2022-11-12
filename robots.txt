@@ -14,3 +14,5 @@ User-agent: *
 Disallow: /cv.html
 Disallow: /images/contact-me.svg
 Disallow: /files
+
+Sitemap: https://www.snoogans.co.uk/sitemap.xml
