@@ -13,10 +13,11 @@ User-agent: *
 # Main /
 Disallow: /cv.html
 Disallow: /images/contact-me.svg
-Disallow: /files
 Disallow: /categories
+Disallow: /files
 Disallow: /notes
 Disallow: /search
+Disallow: /share
 Disallow: /tags
 
 Sitemap: https://www.snoogans.co.uk/sitemap.xml
