@@ -14,7 +14,6 @@ User-agent: *
 Disallow: /cv.html
 Disallow: /images/contact-me.svg
 Disallow: /categories
-Disallow: /files
 Disallow: /notes
 Disallow: /search
 Disallow: /share
