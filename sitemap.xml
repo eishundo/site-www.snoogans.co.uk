@@ -128,17 +128,22 @@
     <priority>0.1</priority>
   </url><url>
     <loc>https://www.snoogans.co.uk/posts/meta-quest-discounts/</loc>
-    <lastmod>2024-06-30T16:35:00+00:00</lastmod>
+    <lastmod>2024-07-07T16:35:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url><url>
+    <loc>https://www.snoogans.co.uk/posts/</loc>
+    <lastmod>2024-07-07T16:35:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url><url>
     <loc>https://www.snoogans.co.uk/</loc>
-    <lastmod>2024-07-02T15:49:22+01:00</lastmod>
+    <lastmod>2024-07-07T16:35:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1</priority>
   </url><url>
     <loc>https://www.snoogans.co.uk/posts/cubing/beginner-cfop/</loc>
-    <lastmod>2024-07-02T15:49:22+01:00</lastmod>
+    <lastmod>2022-10-30T11:22:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url><url>
@@ -147,8 +152,13 @@
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url><url>
+    <loc>https://www.snoogans.co.uk/posts/cubing/</loc>
+    <lastmod>2022-10-30T11:22:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url><url>
     <loc>https://www.snoogans.co.uk/posts/hosting-history/</loc>
-    <lastmod>2024-07-02T15:49:22+01:00</lastmod>
+    <lastmod>2022-10-30T11:22:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url><url>
@@ -165,16 +175,6 @@
     <loc>https://www.snoogans.co.uk/categories/</loc>
     <changefreq>weekly</changefreq>
     <priority>1</priority>
-  </url><url>
-    <loc>https://www.snoogans.co.uk/posts/cubing/</loc>
-    <lastmod>2024-07-02T15:49:22+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url><url>
-    <loc>https://www.snoogans.co.uk/posts/</loc>
-    <lastmod>2024-07-02T15:49:22+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
   </url><url>
     <loc>https://www.snoogans.co.uk/search/</loc>
     <changefreq>weekly</changefreq>
