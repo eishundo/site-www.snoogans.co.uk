@@ -127,21 +127,6 @@
     <changefreq>weekly</changefreq>
     <priority>0.1</priority>
   </url><url>
-    <loc>https://www.snoogans.co.uk/posts/meta-quest-discounts/</loc>
-    <lastmod>2024-12-29T11:22:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url><url>
-    <loc>https://www.snoogans.co.uk/posts/</loc>
-    <lastmod>2024-12-29T11:22:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url><url>
-    <loc>https://www.snoogans.co.uk/</loc>
-    <lastmod>2024-12-29T11:22:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1</priority>
-  </url><url>
     <loc>https://www.snoogans.co.uk/posts/cubing/beginner-cfop/</loc>
     <lastmod>2024-07-14T16:35:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -161,6 +146,16 @@
     <lastmod>2022-10-30T11:22:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
+  </url><url>
+    <loc>https://www.snoogans.co.uk/posts/</loc>
+    <lastmod>2024-07-14T16:51:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url><url>
+    <loc>https://www.snoogans.co.uk/</loc>
+    <lastmod>2024-07-14T16:51:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1</priority>
   </url><url>
     <loc>https://www.snoogans.co.uk/notes/</loc>
     <lastmod>2010-06-08T08:06:25+06:00</lastmod>
