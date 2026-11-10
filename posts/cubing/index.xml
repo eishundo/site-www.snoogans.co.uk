@@ -6,7 +6,8 @@
     <description>Recent content in Cubing on Snoogans.co.uk</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 30 Oct 2022 11:22:00 +0000</lastBuildDate><atom:link href="https://www.snoogans.co.uk/posts/cubing/index.xml" rel="self" type="application/rss+xml" /><item>
+    <lastBuildDate>Sun, 30 Oct 2022 11:22:00 +0000</lastBuildDate><atom:link href="https://www.snoogans.co.uk/posts/cubing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
       <title>Beginner CFOP</title>
       <link>https://www.snoogans.co.uk/posts/cubing/beginner-cfop/</link>
       <pubDate>Sun, 30 Oct 2022 11:22:00 +0000</pubDate>
@@ -14,7 +15,6 @@
       <guid>https://www.snoogans.co.uk/posts/cubing/beginner-cfop/</guid>
       <description>Beginners simplified 3-Look OLL and PLL CFOP algorithms. Used to solve 3x3 cubes using fewer algorithms whilst still following the CFOP method.</description>
     </item>
-    
     
   </channel>
 </rss>

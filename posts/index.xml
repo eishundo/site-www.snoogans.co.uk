@@ -6,7 +6,8 @@
     <description>Recent content in Posts on Snoogans.co.uk</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 30 Oct 2022 11:22:00 +0000</lastBuildDate><atom:link href="https://www.snoogans.co.uk/posts/index.xml" rel="self" type="application/rss+xml" /><item>
+    <lastBuildDate>Sun, 30 Oct 2022 11:22:00 +0000</lastBuildDate><atom:link href="https://www.snoogans.co.uk/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
       <title>Beginner CFOP</title>
       <link>https://www.snoogans.co.uk/posts/cubing/beginner-cfop/</link>
       <pubDate>Sun, 30 Oct 2022 11:22:00 +0000</pubDate>
@@ -32,7 +33,6 @@
       <guid>https://www.snoogans.co.uk/posts/hosting-history/</guid>
       <description>Overview of the hosting history behind Snoogans.co.uk. Covers the various systems and technologies used from 2002 up to the present day.</description>
     </item>
-    
     
   </channel>
 </rss>
